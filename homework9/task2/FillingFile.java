@@ -1,8 +1,17 @@
 package homework9.task2;
 
-import java.io.*;
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.nio.file.Path;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.List;
+import java.util.Random;
+import java.util.Set;
+import java.util.TreeSet;
+import java.io.DataInputStream;
+import java.io.FileInputStream;
 
 public final class FillingFile {
 
